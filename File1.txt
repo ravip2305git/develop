@@ -5,8 +5,8 @@ D1 - C1 Removed by DEV ####
 F1 - E1 Removed by DEV ####
 G1
 H1
-G- 3rd commit -Dev2 Added
-Developer 2 changed feature 2
+NEW FEATURES - SD 502
+Developer 2 changed feature 2 - SD 503 G -----  Removed. -----
 Feature 2 by developer2
 Feature 4 new Corrected
 Feature 5 New Corrected
@@ -16,12 +16,11 @@ New Feature1
 Feat 2
 Feat 3
 ======================
-Feat4 New Corrected	
-Fet5 Added by DEV
+Fet5 Added by DEV - Feat4 New Corrected	MODIFIED BY SD-502 - #### Edited Modified  ####
 Feat6 Added by DEV ####
 ******************************
 FIX2
 Fix3
 Fix4
 	
-
+SD 503 ADDED NEW
